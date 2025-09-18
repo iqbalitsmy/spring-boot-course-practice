@@ -1,0 +1,7 @@
+<div class="navbar">
+	<div class="brand">${name}</div>
+	<div class="links">
+		<a href="#">Home</a> <a href="#">Todos</a>
+	</div>
+	<button>Logout</button>
+</div>
